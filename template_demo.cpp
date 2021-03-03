@@ -1,6 +1,15 @@
-#include "template_demo.h"
+#include "all.h"
 
-#include <iostream>
+/**
+ * 函数模板：
+ *      概念：便于函数复用
+ *      格式：
+ *          template <typename T>
+ *              ...func body...
+ *
+ *              template用于声明一下为函数模板
+ *              typename说明后续T为可变数据类型，可以是基本数据类型或类，typename可以用class替代
+ */
 
 template <typename T>
 T add(T& a, T& b) {

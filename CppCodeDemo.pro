@@ -3,6 +3,8 @@ CONFIG += console c++11
 CONFIG -= app_bundle
 CONFIG -= qt
 
+INCLUDEPATH += D:\Eigen
+
 SOURCES += \
     main.cpp \
     STL/vectordemo.cpp \
@@ -15,7 +17,13 @@ SOURCES += \
     Math/div_demo.cpp \
     Class/class_demo.cpp \
     lambdademo.cpp \
-    pthread_demo.cpp
+    pthread_demo.cpp \
+    std/std_function.cpp \
+    virtual/virtualfunc_demo.cpp \
+    Eigen/eigendemo.cpp \
+    ptr/unique_ptr_demo.cpp \
+    string.cpp \
+    STL/map_demo.cpp
 
 HEADERS += \
     STL/vectordemo.h \
@@ -23,10 +31,10 @@ HEADERS += \
     sizeof_demo.h \
     static_demo.h \
     struct_demo.h \
-    template_demo.h \
     div_demo.h \
     Math/div_demo.h \
     File/ofs_demo.h \
     class_demo.h \
     Class/class_demo.h \
-    all.h
+    all.h \
+    Eigen/eigendemo.h

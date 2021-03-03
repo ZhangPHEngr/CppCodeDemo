@@ -1,6 +1,7 @@
 #ifndef CLASS_DEMO_H
 #define CLASS_DEMO_H
 //类内声明，类外定义，声明在头文件，定义在cpp文件
+namespace class_demo {
 class Person {
  public:
   Person();
@@ -17,8 +18,9 @@ class Person {
   void operator+(const Person &p);
 };
 
-namespace class_demo {
+
 int test();
+int testInherit();
 }
 
 #endif  // CLASS_DEMO_H
