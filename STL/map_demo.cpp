@@ -15,6 +15,7 @@ int test_map(){
     mapStudent.insert(pair<int, string>(3, "student_three"));
     //第二种：用下标插入
     mapStudent[100] = "pppp";
+
     map<int, string>::iterator iter;
     for(iter = mapStudent.begin(); iter != mapStudent.end(); iter++)
         cout<<iter->first<<' '<<iter->second<<endl;

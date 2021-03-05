@@ -23,7 +23,8 @@ SOURCES += \
     Eigen/eigendemo.cpp \
     ptr/unique_ptr_demo.cpp \
     string.cpp \
-    STL/map_demo.cpp
+    STL/map_demo.cpp \
+    Json/json_demo.cpp
 
 HEADERS += \
     STL/vectordemo.h \

@@ -29,8 +29,14 @@ int main() {
 //  ofs_demo::test();
 //  ptr_demo::test_unique();
 
-//  string_demo::test();
-  STL_demo::test_map();
+  string_demo::joint();
+//  STL_demo::test_map();
+
+
+
+
+
+
   cout << "******************End*******************" << endl;
 
   return 0;

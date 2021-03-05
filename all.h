@@ -1,7 +1,7 @@
 #pragma once
 
 //头文件
-#include <iostream>
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -9,6 +9,8 @@
 #include "Eigen/eigendemo.h"
 #include <map>
 #include <string>
+#include <string.h>
+#include <iostream>
 //声明
 namespace template_demo {
 int test();
@@ -55,6 +57,8 @@ int test_unique();
 //string 部分
 namespace string_demo {
 int test();
+int devide();
+int joint();
 }
 //STL部分
 namespace STL_demo {
