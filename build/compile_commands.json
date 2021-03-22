@@ -1,0 +1,97 @@
+[
+{
+  "directory": "F:/DemoCPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CppDemo.dir/includes_CXX.rsp -g -o CMakeFiles\\CppDemo.dir\\main.cpp.obj -c F:\\DemoCPP\\main.cpp",
+  "file": "F:/DemoCPP/main.cpp"
+},
+{
+  "directory": "F:/DemoCPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CppDemo.dir/includes_CXX.rsp -g -o CMakeFiles\\CppDemo.dir\\src\\class_demo.cpp.obj -c F:\\DemoCPP\\src\\class_demo.cpp",
+  "file": "F:/DemoCPP/src/class_demo.cpp"
+},
+{
+  "directory": "F:/DemoCPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CppDemo.dir/includes_CXX.rsp -g -o CMakeFiles\\CppDemo.dir\\src\\div_demo.cpp.obj -c F:\\DemoCPP\\src\\div_demo.cpp",
+  "file": "F:/DemoCPP/src/div_demo.cpp"
+},
+{
+  "directory": "F:/DemoCPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CppDemo.dir/includes_CXX.rsp -g -o CMakeFiles\\CppDemo.dir\\src\\eigendemo.cpp.obj -c F:\\DemoCPP\\src\\eigendemo.cpp",
+  "file": "F:/DemoCPP/src/eigendemo.cpp"
+},
+{
+  "directory": "F:/DemoCPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CppDemo.dir/includes_CXX.rsp -g -o CMakeFiles\\CppDemo.dir\\src\\json_demo.cpp.obj -c F:\\DemoCPP\\src\\json_demo.cpp",
+  "file": "F:/DemoCPP/src/json_demo.cpp"
+},
+{
+  "directory": "F:/DemoCPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CppDemo.dir/includes_CXX.rsp -g -o CMakeFiles\\CppDemo.dir\\src\\lambdademo.cpp.obj -c F:\\DemoCPP\\src\\lambdademo.cpp",
+  "file": "F:/DemoCPP/src/lambdademo.cpp"
+},
+{
+  "directory": "F:/DemoCPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CppDemo.dir/includes_CXX.rsp -g -o CMakeFiles\\CppDemo.dir\\src\\map_demo.cpp.obj -c F:\\DemoCPP\\src\\map_demo.cpp",
+  "file": "F:/DemoCPP/src/map_demo.cpp"
+},
+{
+  "directory": "F:/DemoCPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CppDemo.dir/includes_CXX.rsp -g -o CMakeFiles\\CppDemo.dir\\src\\ofs_demo.cpp.obj -c F:\\DemoCPP\\src\\ofs_demo.cpp",
+  "file": "F:/DemoCPP/src/ofs_demo.cpp"
+},
+{
+  "directory": "F:/DemoCPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CppDemo.dir/includes_CXX.rsp -g -o CMakeFiles\\CppDemo.dir\\src\\pthread_demo.cpp.obj -c F:\\DemoCPP\\src\\pthread_demo.cpp",
+  "file": "F:/DemoCPP/src/pthread_demo.cpp"
+},
+{
+  "directory": "F:/DemoCPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CppDemo.dir/includes_CXX.rsp -g -o CMakeFiles\\CppDemo.dir\\src\\refer_demo.cpp.obj -c F:\\DemoCPP\\src\\refer_demo.cpp",
+  "file": "F:/DemoCPP/src/refer_demo.cpp"
+},
+{
+  "directory": "F:/DemoCPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CppDemo.dir/includes_CXX.rsp -g -o CMakeFiles\\CppDemo.dir\\src\\sizeof_demo.cpp.obj -c F:\\DemoCPP\\src\\sizeof_demo.cpp",
+  "file": "F:/DemoCPP/src/sizeof_demo.cpp"
+},
+{
+  "directory": "F:/DemoCPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CppDemo.dir/includes_CXX.rsp -g -o CMakeFiles\\CppDemo.dir\\src\\static_demo.cpp.obj -c F:\\DemoCPP\\src\\static_demo.cpp",
+  "file": "F:/DemoCPP/src/static_demo.cpp"
+},
+{
+  "directory": "F:/DemoCPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CppDemo.dir/includes_CXX.rsp -g -o CMakeFiles\\CppDemo.dir\\src\\std_function.cpp.obj -c F:\\DemoCPP\\src\\std_function.cpp",
+  "file": "F:/DemoCPP/src/std_function.cpp"
+},
+{
+  "directory": "F:/DemoCPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CppDemo.dir/includes_CXX.rsp -g -o CMakeFiles\\CppDemo.dir\\src\\string.cpp.obj -c F:\\DemoCPP\\src\\string.cpp",
+  "file": "F:/DemoCPP/src/string.cpp"
+},
+{
+  "directory": "F:/DemoCPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CppDemo.dir/includes_CXX.rsp -g -o CMakeFiles\\CppDemo.dir\\src\\struct_demo.cpp.obj -c F:\\DemoCPP\\src\\struct_demo.cpp",
+  "file": "F:/DemoCPP/src/struct_demo.cpp"
+},
+{
+  "directory": "F:/DemoCPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CppDemo.dir/includes_CXX.rsp -g -o CMakeFiles\\CppDemo.dir\\src\\template_demo.cpp.obj -c F:\\DemoCPP\\src\\template_demo.cpp",
+  "file": "F:/DemoCPP/src/template_demo.cpp"
+},
+{
+  "directory": "F:/DemoCPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CppDemo.dir/includes_CXX.rsp -g -o CMakeFiles\\CppDemo.dir\\src\\unique_ptr_demo.cpp.obj -c F:\\DemoCPP\\src\\unique_ptr_demo.cpp",
+  "file": "F:/DemoCPP/src/unique_ptr_demo.cpp"
+},
+{
+  "directory": "F:/DemoCPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CppDemo.dir/includes_CXX.rsp -g -o CMakeFiles\\CppDemo.dir\\src\\vectordemo.cpp.obj -c F:\\DemoCPP\\src\\vectordemo.cpp",
+  "file": "F:/DemoCPP/src/vectordemo.cpp"
+},
+{
+  "directory": "F:/DemoCPP/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/CppDemo.dir/includes_CXX.rsp -g -o CMakeFiles\\CppDemo.dir\\src\\virtualfunc_demo.cpp.obj -c F:\\DemoCPP\\src\\virtualfunc_demo.cpp",
+  "file": "F:/DemoCPP/src/virtualfunc_demo.cpp"
+}
+]

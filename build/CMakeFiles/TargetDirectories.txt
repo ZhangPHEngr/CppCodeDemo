@@ -1,0 +1,5 @@
+F:/DemoCPP/build/CMakeFiles/rebuild_cache.dir
+F:/DemoCPP/build/CMakeFiles/CppDemo.dir
+F:/DemoCPP/build/CMakeFiles/package.dir
+F:/DemoCPP/build/CMakeFiles/package_source.dir
+F:/DemoCPP/build/CMakeFiles/edit_cache.dir
