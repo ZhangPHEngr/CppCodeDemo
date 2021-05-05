@@ -1,6 +1,9 @@
 #include <iostream>
-
-#include "all.h"
+#include <pthread.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+// #include "all.h"
 
 /**
  *pthread:多线程
@@ -95,7 +98,7 @@ void* threadFunc2(void* args){
 
 }
 
-void test(){
+void main(){
     pthread_t pid1;
     pthread_t pid2;
     pthread_create(&pid1,NULL,threadFunc1,NULL);
